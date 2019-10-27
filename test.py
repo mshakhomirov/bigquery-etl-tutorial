@@ -1,8 +1,4 @@
 
-# 
-
-
-
 from event import data
 
 print(data['bucket'])

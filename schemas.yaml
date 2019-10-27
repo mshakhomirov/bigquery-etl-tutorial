@@ -184,3 +184,43 @@
       type: "STRING"
       mode: "NULLABLE"
       
+- name: table_7
+  size: large
+  format: NEWLINE_DELIMITED_JSON
+  columns: []
+  partition_field: "dob"
+  schema: 
+    - name: "id"
+      type: "INT64"
+      mode: "NULLABLE"
+    - name: "first_name"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "last_name"
+      type: "STRING"
+      mode: "NULLABLE"
+    - name: "dob"
+      type: "DATE"
+      mode: "NULLABLE"
+    - name: "addresses"
+      type: "RECORD"
+      mode: "REPEATED"
+      fields:
+        - name: "status"
+          type: "STRING"
+          mode: "NULLABLE"
+        - name: "address"
+          type: "STRING"
+          mode: "NULLABLE"
+        - name: "city"
+          type: "STRING"
+          mode: "NULLABLE"
+        - name: "state"
+          type: "STRING"
+          mode: "NULLABLE"
+        - name: "zip"
+          type: "INT64"
+          mode: "NULLABLE"
+        - name: "numberOfYears"
+          type: "INT64"
+          mode: "NULLABLE"

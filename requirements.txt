@@ -6,3 +6,4 @@ google-cloud-bigquery==1.8.1
 google-cloud-core==0.29.1
 pytz==2018.7
 pyarrow==0.15.0
+pandas==0.25.0

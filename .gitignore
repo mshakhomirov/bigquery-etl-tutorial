@@ -1,2 +1,8 @@
 __pycache__/event.cpython-37.pyc
 __pycache__/main.cpython-37.pyc
+functions/firestore/bin
+functions/firestore/include
+functions/firestore/lib
+functions/firestore/.Python
+__pycache__/config.cpython-37.pyc
+__pycache__/manual.cpython-37.pyc
