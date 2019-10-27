@@ -1,0 +1,18 @@
+{
+  "name": "gcs-transfer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "@google-cloud/storage": "^3.3.0",
+    "async": "^3.1.0",
+    "aws-sdk": "^2.512.0",
+    "moment": "^2.17.1",
+    "request": "^2.81.0"
+  },
+  "description": "Microservice lambda to copy files fromS3 to Google cloud storage.",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Mike Shakhomirov - mshakhomirov@gmail.com",
+  "license": "ISC"
+}

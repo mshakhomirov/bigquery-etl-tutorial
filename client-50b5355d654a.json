@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "your-google-project",
+  "private_key_id": "§1234567890d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nasdfghjklh\n9owGzasdasdasdM61t4s0ww3xKXHigrV\nrTpRDaL5vbxcwedewfeywTKxtE47xq/Z3/asdasdasdasdas++80u9C8igWh\n/zxcvbn\nr12365876098Mm\nsqwertyuioTldH\nQFgmmSLvAgMBAewsrdtfyguYM0lX0\n9+GenzresdtfyguhijkrBYJ41XYJcLDBKpnGg4j1AJp17ztl\asdsad\nKZMXAqYcCFtawQ9pG1v/+1hFd1rMC24WnwnXPdmcXZXD0XlmxwdSctJ/UOJ74One\nDofhBx4/asd+b3bEGFhdCQtkRQQucR5D6875gxh+I7t2TlLwpCsxIiS\nthIGvR+bstrWo21gSQTSBatGQLVVJZjC9ZfehiT+bQKBgQC/HOzeTKMKWLSY0BGO\noPXL/jJCkIYid+LJ7i30xmzyspdL13T3sRdNSASK8gLBAo/wT3vRYoNceqiagzQC\n9/H3B0baYVk67Z4GaLLY4Vkohxmey/dplgfCi+SiexYcJI7RysR1DhVE6b5jOMQe\nq0fUx+0d47GRlVcCsstDRPdzAwKBgQC1yVD//RjQITkgZvfLDLlbAbs25fEmegv5\ncTdJ2xEgpSgtpJcUcHnuOulK5q7JlQjLMUZKT8UVkLNegThmrKp1x3bz4DRroEc5\nw+4wbilf0Cxs0uZE6wNS5n4zuueWUc4A6rVFNpQoOq502zJN4AVO/aaXQNRCCv1z\nd1vM7dNWpQKBgQCqZx0g3U5mlE97DdMJzKU9XYrs5TZkl2bEzDV30lEkWW8jtZna\nnLF9O+CpDz67YBB9ojFxshgUpl2dX61JlFDQBVH8t94699H2PvZxAQVhaIzElXMm\nVxrWMawL4BoHv+UEVHq1MHhweMZEbEIaYnhq1lSrWPFkMLdjdY5djanhhwKBgEYz\nA9CXEGnvKnxUxwPmWf3G4WEF0uYk41LkYZFnw2lz3dwiXyVJegyBO23tPzohD1BI\nKvizxctomFfmJX3wxmJNZyo/GeD6iA1qiL\n+oxL01LltlDyBK8F/4bNdPOb2VvXmqBoS08L2DzxAoGAebUDioM95q4wYKQ+HsXf\nnWhfzsKG1rikIQBvhFQ3vQ0y/QwGCqEQozxQUOYJSblYMj11FpPyKQ+JHZUR8E1l\nppyBI+fsj1dxeWHNvB9zo9jg574zf6JDyAMxxzxcvbnmlkjhgfdsPV1\asd=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yourgoogleproject-adminsdk@yourgoogle-project.iam.gserviceaccount.com",
+  "client_id": "1234567890",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-adminsdk%40your-project.iam.gserviceaccount.com"
+}

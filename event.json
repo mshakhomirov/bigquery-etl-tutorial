@@ -1,0 +1,39 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.0",
+      "eventSource": "aws:s3",
+      "awsRegion": "eu-west-1",
+      "eventTime": "2017-04-11T09:29:02.255Z",
+      "eventName": "ObjectCreated:Put",
+      "userIdentity": {
+        "principalId": "AWS:AROAJMDLTHKSTD54VVQXA: ingest-lambda"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "11.22.333.444"
+      },
+      "responseElements": {
+        "x-amz-request-id": "123456BBA39E",
+        "x-amz-id-2": "qwertyuiop60OvOGuQc96hcvRczEsdfghjklTW929FBA="
+      },
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "qwe32-cc02-qwer-1234-asdsad",
+        "bucket": {
+          "name": "your.bucketname.aws",
+          "ownerIdentity": {
+            "principalId": "qwerty123"
+          },
+          "arn": "arn:aws:s3:::your.bucketname.aws"
+        },
+        "object": {
+          "key": "your_folder/table_1_file",
+          "size": 247,
+          "eTag": "qwerttyf28aede3fdeaa95e7",
+          "versionId": "asdfghjkl9xMnGRwMpxZ",
+          "sequencer": "qwerrt12312"
+        }
+      }
+    }
+  ]
+}

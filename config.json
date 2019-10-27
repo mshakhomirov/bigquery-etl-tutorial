@@ -1,0 +1,21 @@
+{
+    "Tables": [
+      {
+        "name" : "daily_table_1"
+      },
+      {
+        "name" : "daily_table_2"  
+      },
+      {
+        "name" : "daily_table_3"  
+      },
+      {
+        "name" : "daily_table_4"  
+      }
+    ],
+    "cred_bucket": "your.bucketName.aws",
+    "cred_s3_obj": "your-google-key.json",
+    "googleBucket": "your_google_destination_bucket",
+    "gcp_project_id": "your-google-project-name",
+    "gcp_client_email": "yourgoogleproject-adminsdk@your-googleproject.iam.gserviceaccount.com"
+}
